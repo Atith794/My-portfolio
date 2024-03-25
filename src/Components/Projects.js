@@ -5,6 +5,7 @@ import EcommerceImage from "./Images/Shopping cart.png";
 import YoutubeClone from "./Images/youtube-clone.png";
 import blinkitClone from "./Images/blinkit-clone.png";
 import portfolioImage from "./Images/Portfolio.png";
+import spotify from "./Images/Spotify-clone.png";
 
 const Projects = ()=>{
 
@@ -36,7 +37,13 @@ const Projects = ()=>{
         name:"Blinkit Clone",
         imgsrc:blinkitClone,
         href:"https://clone-blinkit.netlify.app",
-        desc: "I developed a responsive Blinkit clone using vanilla HTML and CSS, mirroring the original website's UI across different screen sizes. The clone replicates Blinkit's interface accurately to match the user experience of the actual Blinkit website."
+        desc: "I developed a responsive Blinkit clone using vanilla HTML and CSS, mirroring the original website's UI across different screen sizes. The project captures the essence of Blinkit's design elements, offering a familiar and intuitive user experience. It showcases my proficiency in front-end development and attention to detail in replicating complex web interfaces. "
+    },
+    {
+        name:"Spotify Clone",
+        imgsrc:spotify,
+        href:"https://clonned-spotify.netlify.app/",
+        desc: "I've developed a Spotify clone using Vanilla HTML and CSS that closely mirrors the UI of the official Spotify website. The clone replicates Spotify's interface accurately to match the user experience of the actual Spotify website."
     }
 ]
 

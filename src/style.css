@@ -311,3 +311,137 @@
 .fspan{
     padding: 3.5rem;
 }
+
+
+
+@media only screen and (max-width: 768px) {
+    /* Adjust Navbar */
+    .Navbar {
+        padding: 5px 10px;
+    }
+
+    .nd1 a {
+        margin-right: 1rem;
+    }
+
+    /* Adjust Profile Section */
+    .hdiv {
+        margin-top: 8rem;
+        margin-bottom: 6rem;
+    }
+
+    .hp1 {
+        font-size: 1.5rem;
+    }
+
+    .hp2 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .hp3 {
+        font-size: 1.25rem;
+        margin-bottom: 1.25rem;
+    }
+
+    /* Adjust About Me Section */
+    .aboutme {
+        padding-top: 1rem;
+    }
+
+    .ah1 {
+        font-size: 2rem;
+    }
+
+    .cd2{
+        padding: 1rem;
+    }
+
+    .abd1>p{
+        font-family: "Montserrat", sans-serif;
+        font-weight:300;
+        font-style: normal;
+        font-size: 0.8rem;
+        color: whitesmoke;
+        padding-left: 1.5rem;
+        padding-top: 1.5rem;
+    }
+
+    .abd2d1>span, .abd2d2>span, .abd2d3>a, .abd2d4>a, .abd2d5>a{
+        font-size: 0.8rem;
+    }
+
+    .abd2d1, .abd2d2, .abd2d3, .abd2d4, .abd2d5{
+        margin: 1rem;
+    }
+    /* Adjust Footer */
+    .section{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .Footer div {
+        flex-direction: column;
+    }
+
+    .Footer h2 {
+        font-size: 1.25rem;
+    }
+
+    /* Adjust Contact Section */
+    .cd1 {
+        padding: 1rem;
+    }
+
+    .cd2i1 {
+        width: 100%;
+        height: auto;
+        border-radius: 1rem;
+    }
+
+    .cd2p1 {
+        font-size: 0.9rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .cd2a1 {
+        font-size: 0.4rem;
+    }
+
+    .fspan {
+        display: none;
+    }
+
+    /* Adjust Hero Section */
+    .hdiv {
+        margin-top: 5rem;
+        margin-bottom: 4rem;
+        flex-direction: column-reverse;
+    }
+
+    .hp1 {
+        font-size: 1.8rem;
+        padding-bottom: 0.25rem;
+    }
+
+    .hp2 {
+        font-size: 2.3rem;
+        margin-bottom: 2rem;
+    }
+
+    .hp3 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .hsp1 {
+        font-size: 3rem;
+    }
+
+    .hd3p1 {
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        margin-right: 0.5rem;
+    }
+}
+
