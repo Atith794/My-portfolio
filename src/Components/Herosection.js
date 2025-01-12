@@ -10,9 +10,9 @@ const Hero = () => {
     return(
         <div className='hdiv'>
             <div className='hd1'>
-                <p className='hp2'>Hello, Welcome to my portfolio.<span className='hsp1'> 👋🏻</span></p>
-                <p className='hp1'>Front End Developer</p>
-                <p className='hp3'><br></br> I'm a passionate frontend developer<br></br> based in Mysuru, Karnataka, India</p>
+                <p className='hp2'>Hello, Welcome to my portfolio<span className='hsp1'> 👋🏻</span></p>
+                <p className='hp1'>Software Engineer - MERN</p>
+                <p className='hp3'><br></br> I'm a passionate MERN stack developer<br></br> based in Mysuru, Karnataka, India</p>
                 <div className='hd3'>
                     <p className='hd3p1'>Tech Stack</p>
                     <p className='hd3p2'>|</p>

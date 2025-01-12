@@ -6,12 +6,7 @@ const Aboutme = ()=>{
             <h1 className="ah1">About Me</h1>
             <div className="abd3">
                 <div className="abd1">
-                    <p>I am a passionate coder and mechanical engineer looking to 
-                        transition my carrer towards coding. Proficient in Java, 
-                        JavaScript, HTML, CSS, and React, I am currently honing my 
-                        skills through a course at Acciojob, an Ed-Tech startup. 
-                        I have hands-on experience in building projects using React, 
-                        JavaScript, HTML and CSS.</p>
+                    <p>I am a dedicated Software Engineer with a Mechanical Engineering background, currently contributing to innovative projects at Nexshore Technologies. Proficient in Java, JavaScript, React, Node.js, Express.js, and MongoDB, I specialize in crafting efficient and scalable full-stack applications. My journey into coding started at Acciojob, where I honed my skills through intensive training. Now, I apply my expertise in the MERN stack to deliver user-friendly and robust solutions</p>
                 </div>
                 <div className="abd2">
                     <div className="abd2d1">
@@ -20,7 +15,7 @@ const Aboutme = ()=>{
                     </div>
                     <div className="abd2d2">
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACSklEQVR4nO2ZT0gUURzHP1l4EqFTykLIQmDRP0mWDLuVB70ZBVK3YA9dIoIo8RBR4cFDHhQ6dA+UDp4UIaJCJOgQhIcOQSBehv6BuqG1ypOv8Bgwx53n7HuuX/jtPub95vebz8783vxmFuA9sBaozaJBGfgRmJV17BsfEeEp2geosqL9M1BlRTV1BvLA1Ywt7xKgWIWbVNElQAEYzNgKLgF8VFRTAIXQL6Fi6EWcD30Z9VFRTQH0ANMZW49LgOCLuFFFlaU1ugTwUVEWAIcIFOAg8Az4A/wEbhEAQAMwBHwAZhR3CfirVyATwBRwF6jzEeBlbBUxMZuATkHYc/d8A6gHVoEF4ChwDjhizR8DTgMXgH86S2nlFOCK4nxMUNRl5duu28wM4KZimF92IIH/mPxNgbf7APBJMS7tYJ/72ueFDwDvFGO73sWul1Ht89QHgIu6fL4nXB4fKecccNgHgJyWya8J/e8oZz/p5AygSzFMcSbRZfmP4wlAM1DS8vgauL6FXyvwSq2FyfkAj+4D3frXxMRaUSt8ADiporWXT2OfHTR6ketW4q11gJPAG42/ASNa91e0zfim1a4B/LZAvljjZfVAuwJQAp5XaG0xgPPANaBD288CfUALcDwG0JYib2kTwP7FKrHeGIA5yK0UB+hNmfuXCXIi5QuoXAqAXMrc/8u1Y1UC4JX2HECTVXBmHAzAKeC2Cmyz2BaBh8CZEADm9W0eMYdlq7E5rwHWNDbPwHYfNB2b905P1FLfUB8Ul9lm5ozPY1dZ1wGwKVggmRQPaAAAAABJRU5ErkJggg=="/>
-                        <span>Pursing Fullstack Web-development course at Acciojob</span>
+                        <span>Completed MERN Stack Development course at Acciojob</span>
                     </div>
                     <div className="abd2d3">
                         <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 30 30">
